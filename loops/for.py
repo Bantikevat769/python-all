@@ -7,7 +7,6 @@ for i in range(1,11):
 
 #sum of natural number
 a=int(input("Enter any number"))
-#sum of natural number
 sum=0
 for i in range(1,a+1):
     print(i)
